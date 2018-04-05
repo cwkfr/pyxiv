@@ -19,7 +19,7 @@ VERSION = '0.1.0'
 KEYWORD = 'pixiv api anime manga'
 
 REQUIRED = [
-    'requests', 'decorator'
+    'requests', 'decorator', 'uritemplate'
 ]
 
 here = os.path.abspath(os.path.dirname(__file__))
