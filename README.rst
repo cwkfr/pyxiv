@@ -1,8 +1,5 @@
-٩(●ᴗ●)۶ Pyxiv
+٩(●ᴗ●)۶ Pyxiv (Abandoned)
 ============
-
-**UNDER DEVELOPMENT!**
-
 
 Todo
 ----
